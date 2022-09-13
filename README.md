@@ -7,3 +7,5 @@ During the implementation of the project, the following was done:
 - compiled data model
 
 The tool used was OracleSQL.
+
+The terms of reference, the resulting ER-diagram and the course project itself are presented in the attached files
